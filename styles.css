@@ -452,8 +452,9 @@ nav {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .footer__links li {
-    justify-content: flex-end;
+  .footer__content p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
   }
 
   .footer__socials {
